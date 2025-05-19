@@ -2,10 +2,10 @@
 % Optimizada para ATS y reclutamiento técnico
 % Requiere: XeLaTeX o LuaLaTeX (mejor manejo de fuentes)
 
-\documentclass[10pt, a4paper]{article}
+\documentclass[9pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[margin=0.75in]{geometry}
-\usepackage{fontspec}
+
 \usepackage{parskip}
 \usepackage{enumitem}
 \usepackage{xcolor}
@@ -23,12 +23,12 @@
 
 
 % --- Configuración tipográfica --- %
-\setmainfont{DejaVu Sans}  % Fuente libre disponible en todos los sistemas
-\setsansfont{DejaVu Sans}
+
+
 \definecolor{accent}{RGB}{40, 40, 140} % Azul profesional
 
 % --- Comandos personalizados --- %
-\newcommand{\header}[1]{\section*{\fontsize{11}{12}\selectfont\bfseries\color{accent}\uppercase{#1}}}
+\newcommand{\header}[1]{\section*{\fontsize{10.5}{11}\selectfont\bfseries\color{accent}\uppercase{#1}}}
 \newcommand{\jobtitle}[2]{\textbf{#1} \hfill \textbf{\small #2}} % Puesto y fecha
 \newcommand{\company}[1]{\textit{#1}} % Empresa
 \usepackage{tikz}
@@ -74,9 +74,26 @@ Fast learner and I love to share my knowledge with others. I’m getting used to
 
 % --- Experiencia laboral --- %
 \header{Professional Experience}
+\jobtitle{Senior Magento Fullstack Developer}{Mar 2024 - Mar 2025} \\
+\company{Grupo Distelsa (Contracted via Widook) | Guatemala} \hfill \textit{Remote}
+\begin{itemize}[noitemsep, topsep=3pt]
+	\item \textbf{Payment Gateway Integration \& Card Management}: 
+	\begin{itemize}[noitemsep, topsep=3pt]
+		\item Designed and implemented a secure payment method for TecnoFácil, integrating Cybersource API (Visa) for transaction processing.
+		\item Developed key features: card tokenization (secure storage), payment method listing, and API-based transaction flows.
+		\item Integrated Kevel (Adzerk) for ad management and Braze for post-purchase campaign automation (email/SMS) and conversion tracking.
+	\end{itemize}
+	\item \textbf{E-commerce Platform Management \& Optimization}:
+	\begin{itemize}[noitemsep, topsep=3pt]
+		\item Technical administration of max.com.gt and tecnofacil.com.gt (Magento/Adobe Commerce platforms).
+		\item Improved product load performance (bulk CSV imports, real-time inventory sync) and reduced page latency.
+		\item Deployed promotional banners and landing pages aligned with marketing strategies (custom HTML/CSS/JavaScript).
+		\item Ongoing maintenance: Debugged post-update module issues, enhanced UI/UX across PDP (Product Detail Page), PLP (Product Listing Page), and checkout flow.
+	\end{itemize}
+\end{itemize}
 
 \jobtitle{Senior Magento Backend Developer}{Ene 2023 - Ene 2024} \\
-\company{Linets SpA Chile | AcidLabs Chile} \hfill \textit{Remote}
+\company{Linets SpA | Chile} \hfill \textit{Remote}
 \begin{itemize}[noitemsep, topsep=3pt]
 	\item \textbf{Database Migration}: Updated customer and product attributes schema for Magento 2.4.6 compatibility
 	\item \textbf{ERP Integration}: Refactored order synchronization module for PHP 8 compliance (insert/update operations)
