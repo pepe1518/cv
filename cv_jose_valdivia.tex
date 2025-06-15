@@ -1,11 +1,11 @@
-% --- Plantilla CV LaTeX para Desarrolladores Magento --- %
+	% --- Plantilla CV LaTeX para Desarrolladores Magento --- %
 % Optimizada para ATS y reclutamiento técnico
 % Requiere: XeLaTeX o LuaLaTeX (mejor manejo de fuentes)
 
 \documentclass[9pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[margin=0.75in]{geometry}
-
+\usepackage{fontspec}
 \usepackage{parskip}
 \usepackage{enumitem}
 \usepackage{xcolor}
@@ -23,8 +23,8 @@
 
 
 % --- Configuración tipográfica --- %
-
-
+\setmainfont{DejaVu Sans}  % Fuente libre disponible en todos los sistemas
+\setsansfont{DejaVu Sans}
 \definecolor{accent}{RGB}{40, 40, 140} % Azul profesional
 
 % --- Comandos personalizados --- %
@@ -39,7 +39,7 @@
 % --- Encabezado --- %
 \begin{center}
     {\large \textbf{Jose Emmanuel Valdivia Ignacio}} \\[5pt]
-    {\small \textbf{Full-Stack Magento Developer/PHP Developer}} \\[8pt]
+    {\small \textbf{Full-Stack Magento Developer/PHP Developer/perro maldito}} \\[8pt]
     
     \faEnvelope\ \href{mailto:pepe1518@gmail.com}{\color{linkcolor}pepe1518@gmail.com} \quad 
     \faPhone\ (+591) 70717456  \\
