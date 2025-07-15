@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  15 JUN 2025 15:29
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  15 JUL 2025 09:59
  restricted system commands enabled.
 **cv_jose_valdivia.tex
 (./cv_jose_valdivia.tex
@@ -47,8 +47,8 @@ Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
 Inserting `tracingstacklevels' at position 1 in `input_level_string'.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/jose/.texlive2021/texmf-
 var/luatex-cache/generic/names/luaotfload-names.luc)
 \c@part=\count183
@@ -651,12 +651,7 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-
-LaTeX Warning: Unused global option(s):
-    [9pt].
-
-(./cv_jose_valdivia.aux)
+))) (./cv_jose_valdivia.aux)
 \openout1 = cv_jose_valdivia.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -705,12 +700,12 @@ LaTeX Font Info:    ... okay on input line 37.
 * \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -829,56 +824,27 @@ LaTeX Info: Redefining \nameref on input line 37.
 
 \openout4 = cv_jose_valdivia.out
 
-Overfull \hbox (7.2946pt too wide) in paragraph at lines 59--60
-[]\TU/DejaVuSans(0)/b/n/10 Core Skills\TU/DejaVuSans(0)/m/n/10 : Ma-gento 2 (MCD
-), PHP 7/8, REST APIs, MySQL/Mari-aDB, Elas-tic-search/Opensearch,
- []
-
-
-Overfull \hbox (13.40396pt too wide) in paragraph at lines 59--60
-\TU/DejaVuSans(0)/m/n/10 Rab-bitMQ, Var-nish, Re-dis, Docker, Git, CI/CD, Linux/
-Ubuntu, Knock-out.js (KO), jQuery, LESS/SASS,
- []
-
-
-Overfull \hbox (2.19514pt too wide) in paragraph at lines 66--67
-[]\TU/DejaVuSans(0)/b/n/10 Tech-ni-cal Com-mu-ni-ca-tion\TU/DejaVuSans(0)/m/n/1
-0 : Clear ex-pla-na-tion of com-plex con-cepts to cross-functional teams 
- []
-
-
-Overfull \hbox (3.03381pt too wide) in paragraph at lines 88--89
-[]\TU/DejaVuSans(0)/m/n/10 Tech-ni-cal ad-min-is-tra-tion of max.com.gt and tec-
-no-facil.com.gt (Ma-gento/Adobe Com-merce
+Overfull \hbox (1.44325pt too wide) in paragraph at lines 62--63
+[]\TU/DejaVuSans(0)/b/n/10.95 Fron-tend De-vel-op-ment\TU/DejaVuSans(0)/m/n/10.
+95 : Knock-out.js, jQuery, JavaScript, HTML5, CSS3, LESS, SASS. 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (18.87483pt too wide) in paragraph at lines 101--102
-[]\TU/DejaVuSans(0)/b/n/10 Pay-ment So-lu-tions\TU/DejaVuSans(0)/m/n/10 : De-vel
--oped cus-tom pay-ment gate-way mod-ule sup-port-ing mul-ti-ple providers 
- []
-
-
-Overfull \hbox (1.61897pt too wide) in paragraph at lines 116--117
-[]\TU/DejaVuSans(0)/b/n/10 Back-end Op-ti-miza-tion\TU/DejaVuSans(0)/m/n/10 : Re
--solved data-display is-sues in the ad-min or-der man-age-ment panel. 
- []
-
-[2] [3] (./cv_jose_valdivia.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+(./cv_jose_valdivia.aux)
 Package rerunfilecheck Info: File `cv_jose_valdivia.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26155 strings out of 477805
+ 26154 strings out of 477805
  125056,953878 words of node,token memory allocated
  428 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 51 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 2:700,3:399,4:199,5:551,6:94,7:10563,8:29,9:425,10:10,11:874
- 45979 multiletter control sequences out of 65536+600000
+   avail lists: 2:613,3:296,4:151,5:522,6:70,7:9562,8:29,9:338,10:13,11:847
+ 45978 multiletter control sequences out of 65536+600000
  38 fonts using 20365983 bytes
  100i,5n,98p,529b,1088s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/truetype/public/dejavu/DejaVuSans-Oblique.t
@@ -887,7 +853,7 @@ tf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome
 avu/DejaVuSans.ttf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawes
 ome5/FontAwesome5Free-Solid-900.otf></usr/share/texlive/texmf-dist/fonts/truetyp
 e/public/dejavu/DejaVuSans-Bold.ttf>
-Output written on cv_jose_valdivia.pdf (3 pages, 73026 bytes).
+Output written on cv_jose_valdivia.pdf (3 pages, 70733 bytes).
 
 PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
