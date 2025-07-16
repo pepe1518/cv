@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  15 JUL 2025 09:59
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  16 JUL 2025 12:22
  restricted system commands enabled.
 **cv_jose_valdivia.tex
 (./cv_jose_valdivia.tex
@@ -824,7 +824,7 @@ LaTeX Info: Redefining \nameref on input line 37.
 
 \openout4 = cv_jose_valdivia.out
 
-Overfull \hbox (1.44325pt too wide) in paragraph at lines 62--63
+Overfull \hbox (1.44325pt too wide) in paragraph at lines 64--65
 []\TU/DejaVuSans(0)/b/n/10.95 Fron-tend De-vel-op-ment\TU/DejaVuSans(0)/m/n/10.
 95 : Knock-out.js, jQuery, JavaScript, HTML5, CSS3, LESS, SASS. 
  []
@@ -843,7 +843,7 @@ Here is how much of LuaTeX's memory you used:
  428 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 51 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 2:613,3:296,4:151,5:522,6:70,7:9562,8:29,9:338,10:13,11:847
+   avail lists: 1:1,2:613,3:297,4:151,5:504,6:70,7:9571,8:29,9:335,10:11,11:853
  45978 multiletter control sequences out of 65536+600000
  38 fonts using 20365983 bytes
  100i,5n,98p,529b,1088s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -853,7 +853,7 @@ tf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome
 avu/DejaVuSans.ttf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawes
 ome5/FontAwesome5Free-Solid-900.otf></usr/share/texlive/texmf-dist/fonts/truetyp
 e/public/dejavu/DejaVuSans-Bold.ttf>
-Output written on cv_jose_valdivia.pdf (3 pages, 70733 bytes).
+Output written on cv_jose_valdivia.pdf (3 pages, 70755 bytes).
 
 PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
