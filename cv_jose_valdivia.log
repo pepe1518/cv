@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  16 JUL 2025 12:22
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2025.4.17)  6 OCT 2025 17:45
  restricted system commands enabled.
 **cv_jose_valdivia.tex
 (./cv_jose_valdivia.tex
@@ -689,15 +689,15 @@ LaTeX Font Info:    ... okay on input line 37.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* h-part:(L,W,R)=(50.58878pt, 496.33032pt, 50.58878pt)
+* v-part:(T,H,B)=(50.58878pt, 743.8693pt, 50.58878pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=489.10287pt
-* \textheight=736.64185pt
-* \oddsidemargin=-18.06749pt
-* \evensidemargin=-18.06749pt
-* \topmargin=-55.06749pt
+* \textwidth=496.33032pt
+* \textheight=743.8693pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
+* \topmargin=-58.68121pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -823,16 +823,10 @@ LaTeX Info: Redefining \nameref on input line 37.
 \@outlinefile=\write4
 
 \openout4 = cv_jose_valdivia.out
+ [1
 
-Overfull \hbox (1.44325pt too wide) in paragraph at lines 64--65
-[]\TU/DejaVuSans(0)/b/n/10.95 Fron-tend De-vel-op-ment\TU/DejaVuSans(0)/m/n/10.
-95 : Knock-out.js, jQuery, JavaScript, HTML5, CSS3, LESS, SASS. 
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-(./cv_jose_valdivia.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./cv_jose_valdivi
+a.aux)
 Package rerunfilecheck Info: File `cv_jose_valdivia.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
@@ -843,7 +837,7 @@ Here is how much of LuaTeX's memory you used:
  428 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 51 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 1:1,2:613,3:297,4:151,5:504,6:70,7:9571,8:29,9:335,10:11,11:853
+   avail lists: 2:508,3:301,4:151,5:539,6:71,7:10121,8:27,9:346,10:13,11:920
  45978 multiletter control sequences out of 65536+600000
  38 fonts using 20365983 bytes
  100i,5n,98p,529b,1088s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -853,7 +847,7 @@ tf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome
 avu/DejaVuSans.ttf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawes
 ome5/FontAwesome5Free-Solid-900.otf></usr/share/texlive/texmf-dist/fonts/truetyp
 e/public/dejavu/DejaVuSans-Bold.ttf>
-Output written on cv_jose_valdivia.pdf (3 pages, 70755 bytes).
+Output written on cv_jose_valdivia.pdf (3 pages, 72458 bytes).
 
 PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
